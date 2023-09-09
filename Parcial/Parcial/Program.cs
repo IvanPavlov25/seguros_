@@ -22,6 +22,7 @@ public class Program
         builder.Services.AddScoped<IClientesRepository>(_ => new ClienteRepositorio(connectionString));
         builder.Services.AddScoped<IEmpleadosRepository>(_ => new EmpleadoRepositorio(connectionString));
         builder.Services.AddScoped<IProductosRepository>(_ => new ProductoRepositorio(connectionString));
+        builder.Services.AddScoped<IVentasRepository>(_ => new VentaRepositorio(connectionString));
 
 
         var app = builder.Build();
