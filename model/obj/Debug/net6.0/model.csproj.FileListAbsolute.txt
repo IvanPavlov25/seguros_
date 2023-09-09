@@ -1,0 +1,11 @@
+C:\Users\allan\Documents\Parcial\model\obj\Debug\net6.0\model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Documents\Parcial\model\obj\Debug\net6.0\model.AssemblyInfoInputs.cache
+C:\Users\allan\Documents\Parcial\model\obj\Debug\net6.0\model.AssemblyInfo.cs
+C:\Users\allan\Documents\Parcial\model\obj\Debug\net6.0\model.csproj.CoreCompileInputs.cache
+C:\Users\allan\Documents\Parcial\model\bin\Debug\net6.0\model.deps.json
+C:\Users\allan\Documents\Parcial\model\bin\Debug\net6.0\model.dll
+C:\Users\allan\Documents\Parcial\model\bin\Debug\net6.0\model.pdb
+C:\Users\allan\Documents\Parcial\model\obj\Debug\net6.0\model.dll
+C:\Users\allan\Documents\Parcial\model\obj\Debug\net6.0\refint\model.dll
+C:\Users\allan\Documents\Parcial\model\obj\Debug\net6.0\model.pdb
+C:\Users\allan\Documents\Parcial\model\obj\Debug\net6.0\ref\model.dll

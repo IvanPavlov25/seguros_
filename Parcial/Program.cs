@@ -20,6 +20,9 @@ public class Program
         builder.Services.AddSingleton(connection);
         string connectionString = builder.Configuration.GetConnectionString("mysql");
         builder.Services.AddScoped<IClientesRepository>(_ => new ClienteRepositorio(connectionString));
+        builder.Services.AddScoped<IEmpleadosRepository>(_ => new EmpleadoRepositorio(connectionString));
+
+
 
         var app = builder.Build();
 
